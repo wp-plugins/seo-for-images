@@ -3,7 +3,7 @@ Contributors: kasonzhao
 Tags: seo, images, Post, admin, google seo
 Requires at least: 3.2
 Tested up to: 3.5.1
-Stable tag: trunk
+Stable tag: 1.0.2
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kasonzhao@qq.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -36,6 +36,9 @@ People love images and video, but search engines are designed for text.  The mor
 == Changelog ==
 
 = 1.0.1 =
+* Initial version 
+
+= 1.0.2 =
 * Initial version 
 
 
