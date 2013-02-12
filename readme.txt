@@ -1,14 +1,10 @@
 === SEO For Images ===
-Contributors: Kason
+Contributors: kasonzhao
 Tags: seo, images, Post, admin, google seo
 Requires at least: 3.2
 Tested up to: 3.5.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kasonzhao@qq.com
-
-
-https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kasonzhao@qq.com
-
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,17 +12,13 @@ Imporve your images ranking by insert/amend alt and title text, generate solid t
 
 == Description ==
 
-
 SEO For Images - imporve your images ranking by insert/amend alt and title text, generate solid traffic from search enigine.
-Auto amend images two necessary attributes ALT and TITLE base on user preference to <strong>improve the SEO.
-<b>How to improve you image seo for Google:</b>
+Auto amend images two necessary attributes ALT and TITLE base on user preference to <strong>improve the SEO.</strong><br />
+<b>How to improve you image seo for Google:</b><br />
 People love images and video, but search engines are designed for text.  The more information you give us about your images and video, the better. In general, follow these guidelines:
 <ul>
 
-
-<li>Use descriptive file names. The file name black-fender-guitar.jpg tells us a lot more than image1.jpg. </li>
-
-<li>Create great alt text and title text. Alt text is used to describe the contents of an image file. It¡¯s great for human readers, but it also provides search engines with useful information about the target image or video.</li>
+<li>Create great alt text and title text. Alt text is used to describe the contents of an image file. It is great for human readers, but it also provides search engines with useful information about the target image or video.</li>
 
 <li>Give your images and video context. Google can infer a great deal about your image or video from the content surrounding it. For example, a picture of a guitar on a page about the history of guitars sends a strong signal to search engines that black-fender-guitar.jpg is about guitars.</li>
 
@@ -44,7 +36,8 @@ People love images and video, but search engines are designed for text.  The mor
 = 1.0.0 =
 * Initial version 
 
-
+= 1.0.2 =
+* update content 1.0.2
 
 == Installation ==
 
