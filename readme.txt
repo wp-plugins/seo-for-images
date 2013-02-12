@@ -3,7 +3,7 @@ Contributors: kasonzhao
 Tags: seo, images, Post, admin, google seo
 Requires at least: 3.2
 Tested up to: 3.5.1
-Stable tag: 1.0.2
+Stable tag: 1.0.1
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kasonzhao@qq.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,6 +26,8 @@ People love images and video, but search engines are designed for text.  The mor
 </ul>
 
 <p><a href="http://www.lookingimage.com/" target="_blank"><b>Click here</b> </a>to visit plugin page for any issues.</p>
+
+
 == Screenshots ==
 
 1. /screenshot-1.jpg
@@ -33,11 +35,9 @@ People love images and video, but search engines are designed for text.  The mor
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0.1 =
 * Initial version 
 
-= 1.0.2 =
-* update content 1.0.2
 
 == Installation ==
 
