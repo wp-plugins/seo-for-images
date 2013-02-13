@@ -1,6 +1,6 @@
 === SEO For Images ===
 Contributors: kasonzhao
-Tags: seo, images, Post, admin, google seo
+Tags: seo, images, admin, google seo, image seo
 Requires at least: 3.2
 Tested up to: 3.5.1
 Stable tag: 1.0.2
@@ -8,11 +8,11 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kason
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Imporve your images ranking by insert/amend alt and title text, generate solid traffic from search enigine.
+Improve your images ranking by insert/amend alt and title text, generate solid traffic from search enigine.
 
 == Description ==
 
-SEO For Images - imporve your images ranking by insert/amend alt and title text, generate solid traffic from search enigine.
+SEO For Images - imporve your images ranking by insert/amend image alt and title text, generate solid traffic from search enigine.
 Auto amend images two necessary attributes ALT and TITLE base on user preference to <strong>improve the SEO.</strong><br />
 <b>How to improve you image seo for Google:</b><br />
 People love images and video, but search engines are designed for text.  The more information you give us about your images and video, the better. In general, follow these guidelines:
@@ -46,7 +46,7 @@ People love images and video, but search engines are designed for text.  The mor
 
 1. Upload plugin folder to your /wp-content/plugins/, or download it from wordpress.org in your admin control panel directly.
 2. Activate the plugin.
-3. In the setting page to config, demo in in the right.
+3. In the setting page to config, demo in right.
 4. Save the option, enjoy!
 
 
