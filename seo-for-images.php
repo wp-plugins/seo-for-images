@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: SEO For Images
-Plugin URI: http://www.lookingimage.com/
+Plugin URI: http://www.lookingimage.com/wordpress-plugin/
 Description: Auto amend images two necessary attributes ALT and TITLE base on user preference to <strong>improve the SEO, simple and practical! Imporve your images ranking, generate solid traffic from search enigine.</strong>
 Version: 1.0.2
 Author: Kason
-Author URI: http://www.lookingimage.com/
+Author URI: http://www.lookingimage.com/wordpress-plugin/
 
 
 */
