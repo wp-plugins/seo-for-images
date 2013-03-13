@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: SEO For Images
-Plugin URI: http://www.lookingimage.com/wordpress-plugin/
+Plugin URI: http://www.lookingimage.com/
 Description: Auto amend images two necessary attributes ALT and TITLE base on user preference to <strong>improve the SEO, simple and practical! Imporve your images ranking, generate solid traffic from search enigine.</strong>
-Version: 1.0.2
+Version: 1.0.0
 Author: Kason
-Author URI: http://www.lookingimage.com/wordpress-plugin/
+Author URI: http://www.lookingimage.com/
 
 
 */
@@ -114,13 +114,21 @@ document.getElementById("demo_title_return").value = demo_Title;
 				
 					<h1>SEO for images</h1>
 		
-				 	<div id="mainblock" style="min-width:510px;float:left;">
+				 	<div id="mainblock" style="min-width:510px;width:550px;float:left;">
 						<form name="sfiform" action="$action_url" method="post">
 							<div class="dbx-content">
 								<input type="hidden" name="submitted" value="1" />
 								<h2><img  style="vertical-align:middle;" width="40px" src="$setting_icon"></img>General Options</h2>
-								<a href="http://www.lookingimage.com/" target="_blank">Click here </a>to visit plugin page for any issues.
-							
+								<p>Auto amend images two necessary attributes ALT and TITLE base on user preference to <strong>improve the SEO, simple and practical! Imporve your images ranking, generate solid traffic from search enigine.</strong></p>
+	<p>Following links can help you:</p>
+   
+   <ul style="margin-left:40px;"> 
+   <li><a href="http://www.lookingimage.com/wordpress-plugin/wordpress-seo-for-images/" target="_blank">Plugin details (FAQ .etc)</a></li>
+   <li><a href="http://www.lookingimage.com/forums/discussion/" target="_blank">Support forum</a></li>
+   <li><a href="http://lookingimage.com/" target="_blank">Author home page</a></li>
+   <li><a href="http://www.lookingimage.com/wordpress-themes/" target="_blank">Free WordPress themes</a></li>
+   <li><a href="http://www.lookingimage.com/wordpress-plugin/" target="_blank">Other pulgins from lookingimage.com</a></li>
+   </ul>
 								
 								<ul>
 									<li><strong>#TITLE </strong>   -> post/page title</li>
@@ -193,6 +201,10 @@ document.getElementById("demo_title_return").value = demo_Title;
 			loadtDemo();
 			</script>
 				</div>
+<br/>
+
+
+
 		
 END;
 }
