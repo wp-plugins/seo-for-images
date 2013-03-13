@@ -123,7 +123,7 @@ document.getElementById("demo_title_return").value = demo_Title;
 	<p>Following links can help you:</p>
    
    <ul style="margin-left:40px;"> 
-   <li><a href="http://www.lookingimage.com/wordpress-plugin/wordpress-seo-for-images/" target="_blank">Plugin details (FAQ .etc)</a></li>
+   <li><a href="http://www.lookingimage.com/wordpress-plugin/wordpress-seo-for-images/" target="_blank">Details and video tutorial (FAQ .etc)</a></li>
    <li><a href="http://www.lookingimage.com/forums/discussion/" target="_blank">Support forum</a></li>
    <li><a href="http://lookingimage.com/" target="_blank">Author home page</a></li>
    <li><a href="http://www.lookingimage.com/wordpress-themes/" target="_blank">Free WordPress themes</a></li>
