@@ -25,7 +25,15 @@ People love images and video, but search engines are designed for text.  The mor
 <li>Provide a great user experience. Try not to make users scroll to see your images and video, and use high-quality source files.</li>
 </ul>
 
-<p><a href="http://www.lookingimage.com/" target="_blank"><b>Click here</b> </a>to visit plugin page for any issues.</p>
+
+Following links can help you:  
+   <ul style="margin-left:40px;"> 
+   <li><a href="http://www.lookingimage.com/wordpress-plugin/wordpress-seo-for-images/" target="_blank">Plugin details (FAQ .etc)</a></li>
+   <li><a href="http://www.lookingimage.com/forums/discussion/" target="_blank">Support forum</a></li>
+   <li><a href="http://lookingimage.com/" target="_blank">Author home page</a></li>
+   <li><a href="http://www.lookingimage.com/wordpress-themes/" target="_blank">Free WordPress themes</a></li>
+   <li><a href="http://www.lookingimage.com/wordpress-plugin/" target="_blank">Other pulgins from lookingimage.com</a></li>
+   </ul>
 
 
 == Screenshots ==
