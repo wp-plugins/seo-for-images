@@ -1,5 +1,5 @@
 === SEO For Images ===
-Contributors: Kason
+Contributors: cole
 Tags: seo, images, Post, admin, google seo
 Requires at least: 3.2
 Tested up to: 3.5.1
@@ -28,7 +28,7 @@ People love images and video, but search engines are designed for text.  The mor
 <li>Provide a great user experience. Try not to make users scroll to see your images and video, and use high-quality source files.</li>
 </ul>
 
-<p><a href="http://www.lookingimage.com/" target="_blank"><b>Click here</b> </a>to visit plugin page for any issues.</p>
+
 == Screenshots ==
 
 1. /screenshot-1.jpg
